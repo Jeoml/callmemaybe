@@ -1,0 +1,212 @@
+New York City Department of Social Services (DSS) / Human Resources Administration (HRA)
+Call Centre Policy & Program Reference Guide
+==============================================================================
+
+1. CityFHEPS RENT SUBSIDY PROGRAM
+
+CityFHEPS (City Family Homelessness & Eviction Prevention Supplement) provides rental assistance vouchers to help eligible New Yorkers find or keep stable housing.
+
+Eligibility:
+- Individuals or families currently in shelter, at risk of entering shelter, or facing eviction.
+- Must have a source of income (employment, Cash Assistance, SSI/SSD, pension, etc.).
+- Households paying more than 50% of income toward rent may qualify.
+- Victims of domestic violence are eligible regardless of shelter status.
+
+Payment Standards (effective January 2026):
+- Payment standards are based on household size, with HRA paying for one bedroom per every two people.
+- Standards are aligned with 120% of HUD Fair Market Rent (FMR).
+- Example: A household of 4 seeking a 2-bedroom apartment — maximum CityFHEPS payment is $3,058/month.
+- As of October 1, 2025, all Augmented CityFHEPS packages are subject to the 120% FMR standard.
+
+Tenant Contribution:
+- Tenants on Cash Assistance pay 30% of their income toward rent.
+- Tenants with employment or other income pay up to 30% of gross income.
+- HRA pays the difference between the tenant contribution and the approved rent, up to the payment standard.
+
+Landlord Requirements:
+- Landlords must agree to accept the CityFHEPS voucher and sign a CityFHEPS lease addendum.
+- The apartment must pass an HRA housing quality inspection before subsidy payments begin.
+- Landlords cannot discriminate against voucher holders — source of income discrimination is illegal under NYC Human Rights Law.
+
+Application Process:
+- Apply through ACCESS HRA (accesshra.nyc.gov) or through a shelter case manager.
+- Required documents: government-issued ID, proof of income, Social Security numbers for all household members, current lease (if applicable).
+- Processing time varies; clients should follow up with their assigned caseworker.
+
+Common Issues:
+- Landlords refusing vouchers (report to NYC Commission on Human Rights at 311).
+- Inspection delays or apartment failing inspection.
+- Voucher expiring before finding suitable housing — request extensions through caseworker.
+- Supplement amount insufficient for market rents in desired neighborhood.
+
+2. FHEPS (STATE-LEVEL SUPPLEMENT)
+
+The state Family Homelessness & Eviction Prevention Supplement (FHEPS) is available for households receiving Public Assistance (Cash Assistance) who are facing eviction or are in shelter. State FHEPS payment amounts have historically been lower than CityFHEPS. Households may be eligible for state FHEPS if they are not eligible for CityFHEPS. Eligibility is determined by HRA during the application process.
+
+3. SCRIE AND DRIE RENT FREEZE PROGRAMS
+
+SCRIE (Senior Citizen Rent Increase Exemption):
+- For tenants aged 62 or older living in rent-regulated apartments (rent-stabilized, rent-controlled, or Mitchell-Lama).
+- Total household income must be $50,000 or less per year.
+- Freezes rent at the amount on the lease at time of approval.
+- The landlord receives a property tax credit from NYC for the difference between the frozen rent and legal regulated rent.
+- Apply through NYC Department of Finance (not HRA), but HRA staff can assist with referrals.
+- Renewal required every 1-2 years with updated income documentation.
+
+DRIE (Disability Rent Increase Exemption):
+- For tenants aged 18-61 with a qualifying disability, living in rent-regulated apartments.
+- Must receive one of the following: SSI, SSD, VA disability pension, or other qualifying disability-related income.
+- Same income threshold: household income $50,000 or less per year.
+- Same mechanism as SCRIE: rent is frozen and landlord receives a tax credit.
+- Apply through NYC Department of Finance.
+- Recent legislation provides retroactivity to the original date of eligibility — applicants who enrolled after their original eligibility date may receive a rent reduction back to their first eligible day.
+
+4. SNAP BENEFITS (FOOD STAMPS)
+
+SNAP (Supplemental Nutrition Assistance Program) provides monthly food benefits loaded onto an EBT (Electronic Benefit Transfer) card.
+
+Eligibility:
+- Based on household size, income (generally below 200% of the Federal Poverty Level for gross income in NY), immigration status, and resources.
+- Most able-bodied adults without dependents (ABAWDs) must meet work requirements.
+- Certain categories (elderly, disabled) have modified requirements.
+
+Benefit Amounts:
+- Determined by household size, income, and allowable deductions (rent, utilities, childcare, medical expenses for elderly/disabled).
+- Benefits are recalculated at each recertification.
+
+Application and Recertification:
+- Apply online at ACCESS HRA (accesshra.nyc.gov), by phone (718-557-1399), in person at a SNAP center, or by calling 311.
+- Recertification required every 6-12 months depending on household circumstances.
+- SNAP applications must be processed within 30 days. Expedited SNAP (within 7 calendar days) is available for households with very low income and resources.
+
+Required Documents:
+- Government-issued photo ID, Social Security numbers for all household members, proof of address, proof of income (pay stubs, benefit letters), utility bills, proof of rent/mortgage.
+
+5. CASH ASSISTANCE (PUBLIC ASSISTANCE / WELFARE)
+
+Two main programs:
+- Family Assistance (FA): For families with dependent children. Funded through federal TANF (Temporary Assistance for Needy Families). Subject to a 60-month lifetime federal limit.
+- Safety Net Assistance (SNA): For single adults, childless couples, or families who have exhausted FA. Funded by state and city.
+
+Grant Amounts:
+- Includes a basic personal needs allowance (approximately $215/month for a single individual) plus a shelter allowance.
+- Exact amounts vary by household size and composition.
+
+Work Requirements:
+- Most Cash Assistance recipients must participate in employment activities through HRA's Back to Work programs at Job Centers (Benefits Access Centers).
+- Failure to comply with work requirements results in sanctions (reduction or loss of cash benefits).
+- Sanctions can be cured by returning to compliance.
+
+Application:
+- Apply in person at an HRA Benefits Access Center (formerly Job Centers) or online through ACCESS HRA.
+- Interview required. Bring all required documentation: ID, Social Security cards, proof of address, income verification, bank statements.
+
+6. ONE-SHOT DEALS (EMERGENCY ASSISTANCE)
+
+One-Shot Deals are emergency grants for one-time expenses that cannot be paid from regular income. Common uses include:
+- Rent arrears (back rent) to prevent eviction.
+- Utility arrears to prevent shutoff.
+- Security deposits and moving expenses.
+- Furniture and household supplies for those exiting shelter.
+
+Eligibility:
+- Evaluated on a case-by-case basis.
+- Must demonstrate a specific reason you could not pay the expense (job loss, medical emergency, etc.).
+- Must show ability to pay the expense going forward.
+- For rent arrears: must have a current lease or landlord agreement to stay, and sufficient income to pay ongoing rent.
+
+Repayment:
+- Most recipients must repay HRA some or all of the One-Shot Deal amount.
+- Repayment is typically deducted from future Cash Assistance benefits.
+- IMPORTANT: People who receive SSI DO NOT have to pay back emergency grants, including certain types of rent arrears grants.
+
+Application:
+- Apply online through ACCESS HRA under the Cash Assistance application.
+- An in-person or phone interview is required.
+- Bring documentation of the emergency, arrears amounts, lease, income proof, and any court papers if facing eviction.
+
+7. EMERGENCY SHELTER
+
+NYC has a legal "right to shelter" mandate (Callahan v. Carey consent decree, 1981). No one can be turned away from shelter.
+
+How to Access Shelter:
+- Single Adults: Apply at intake centers. Men report to the 30th Street Men's Intake Center (400 East 30th Street, Manhattan). Women apply at the women's intake facility.
+- Families with Children: Apply at PATH (Prevention Assistance and Temporary Housing) located at 151 East 151st Street, Bronx. Open 24 hours.
+- Adult Families (couples without children): Apply at the Adult Family Intake Center.
+- Call 311 or the DHS hotline for information and referrals.
+
+Shelter Services:
+- DHS (Department of Homeless Services, under DSS) operates the shelter system.
+- Families undergo a 10-day investigation to verify homelessness.
+- Case managers assist with housing applications, benefits enrollment, and employment referrals.
+- Drop-in centers are available for those not yet ready for shelter.
+
+8. FAIR HEARINGS AND APPEALS
+
+If you disagree with an HRA decision (denial, reduction, or discontinuance of benefits), you have the right to appeal.
+
+Fair Hearing Process:
+- Administered by the New York State Office of Temporary and Disability Assistance (OTDA).
+- Request a fair hearing within 60 days of the date on the Notice of Decision.
+- CRITICAL: To keep your benefits unchanged until the hearing decision ("aid continuing"), you must request the hearing within 10 days of the notice date.
+
+How to Request a Fair Hearing:
+- Online: otda.ny.gov/hearings/request or use the online form at errswebnet.otda.ny.gov
+- Phone: 1-800-342-3334
+- Fax: (518) 473-6735
+- Mail: NYS OTDA, Office of Administrative Hearings, P.O. Box 1930, Albany, NY 12201
+
+At the Hearing:
+- HRA must prove its case with documentation.
+- You may represent yourself, or bring a lawyer, advocate, friend, or relative.
+- You can present evidence, testimony, and documents supporting your case.
+- Hearings may be conducted by phone (telephone fair hearings) or in person.
+
+After the Hearing:
+- OTDA issues a written decision, usually within 90 days.
+- If you win, HRA must comply and restore or provide benefits.
+- If you lose, you may pursue an Article 78 proceeding in State Supreme Court within 4 months.
+
+9. FILING A GRIEVANCE OR COMPLAINT
+
+If an HRA worker has mistreated you, misinformed you, or refused to follow the law:
+- Call the Office of Constituent Services: 212-331-4640
+- Email: constituentaffairs@hra.nyc.gov
+- Write to: HRA Office of Constituent Services, 150 Greenwich Street, New York, NY 10007
+- You may also call 311 to file a complaint about any city agency.
+- All complaints are logged and must receive a response.
+
+10. HRA OFFICE LOCATIONS AND CONTACT INFORMATION
+
+ACCESS HRA Portal: accesshra.nyc.gov (apply for benefits, submit documents, check case status, recertify)
+HRA Infoline: 718-557-1399 (Monday-Friday)
+General NYC Services: Dial 311
+
+Benefits Access Centers (formerly Job Centers and SNAP Centers):
+Hours: Monday-Friday, 8:30 AM - 5:00 PM (all locations unless noted)
+
+Bronx:
+- Crotona: 1910 Monterey Avenue
+- Fordham: 2541-2549 Bainbridge Avenue
+- Hunts Point: 847 Barretto Street
+- Rider: 300 Canal Place (SNAP)
+
+Brooklyn:
+- Bushwick: 2 George Street
+- Clinton Hill: 495 Clermont Avenue
+- Coney Island: 1912 Mermaid Avenue
+- East New York: 2400 Fulton Street, 1st Floor
+
+Manhattan:
+- Dyckman: 4055 10th Avenue
+- East End: 2322 Third Avenue
+- St. Nicholas: 132 West 125th Street
+- Waverly: 12 West 14th Street (Lower Manhattan)
+
+Queens:
+- Jamaica: 165-08 88th Avenue
+- Queens: 32-20 Northern Boulevard, 4th Floor
+- Rockaway: 219 Beach 59th Street
+
+Staten Island:
+- Richmond: 201 Bay Street

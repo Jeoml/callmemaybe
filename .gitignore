@@ -1,0 +1,31 @@
+# Environment variables / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+API.md
+CLAUDE.md
+
+# Virtual environment
+venv/
+.venv/
+
+# Local databases
+chroma_db/
+
+# Traces
+traces/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
